@@ -20,3 +20,6 @@
 - [Understanding the OpenShift 4 must gather](https://access.redhat.com/articles/4591521)
 - [Creating must-gather with more details for specific components in OCP 4](https://access.redhat.com/solutions/5459251)
 - [How to generate a sosreport within nodes without SSH in OCP 4](https://access.redhat.com/solutions/4387261)
+
+## Technical Account Manager
+- [5 ways to take advantage of your Red Hat TAM subscription](https://www.redhat.com/en/blog/5-ways-take-advantage-your-red-hat-tam-subscription)
