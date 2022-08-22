@@ -10,6 +10,7 @@
 - [As a customer how does Red Hat support me when I use third party components?](https://access.redhat.com/third-party-software-support)
 - [How to access Red Hat Subscription Manager (RHSM) through a firewall or proxy](https://access.redhat.com/solutions/65300)
 - [Red Hat Enhanced Solution Support: 24x7 engineering support](https://www.redhat.com/en/resources/enhanced-solution-support-datasheet)
+- [Tested. Certified. Supported. Find certified products from our large and robust ecosystem of enterprise hardware, software, and cloud and service providers.](https://catalog.redhat.com/)
 
 ## Support Cases
 - [How do I open and manage a support case on the Customer Portal?](https://access.redhat.com/articles/38363#attach)
