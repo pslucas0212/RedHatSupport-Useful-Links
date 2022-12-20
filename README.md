@@ -11,6 +11,7 @@
 - [How to access Red Hat Subscription Manager (RHSM) through a firewall or proxy](https://access.redhat.com/solutions/65300)
 - [Red Hat Enhanced Solution Support: 24x7 engineering support](https://www.redhat.com/en/resources/enhanced-solution-support-datasheet)
 - [Tested. Certified. Supported. Find certified products from our large and robust ecosystem of enterprise hardware, software, and cloud and service providers.](https://catalog.redhat.com/)
+- [Red Hat Customer Portal Labs](https://access.redhat.com/labs/) - A set of online tools that can help you improve performance, troubleshoot issues, identify security problems, and optimize configuration for several Red Hat products.
 
 ## Support Cases
 - [How do I open and manage a support case on the Customer Portal?](https://access.redhat.com/articles/38363#attach)
