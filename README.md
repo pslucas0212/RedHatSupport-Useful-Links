@@ -13,6 +13,9 @@
 - [Tested. Certified. Supported. Find certified products from our large and robust ecosystem of enterprise hardware, software, and cloud and service providers.](https://catalog.redhat.com/)
 - [Red Hat Customer Portal Labs](https://access.redhat.com/labs/) - A set of online tools that can help you improve performance, troubleshoot issues, identify security problems, and optimize configuration for several Red Hat products.
 
+## Portal Assistance (org admins, users, subscriptions, etc.)
+- [Contacting Customer Service](https://access.redhat.com/support/contact/customerService)
+
 ## Support Cases
 - [How do I open and manage a support case on the Customer Portal?](https://access.redhat.com/articles/38363#attach)
 - [Red Hat Support Case Escalation](https://access.redhat.com/support/escalation)  
