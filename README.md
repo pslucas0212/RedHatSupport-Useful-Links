@@ -2,6 +2,16 @@
 
 [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 
+## Support Cases
+- [How do I open and manage a support case on the Customer Portal?](https://access.redhat.com/articles/38363#attach)
+- [Red Hat Support Case Escalation](https://access.redhat.com/support/escalation)
+
+## OpenShift - Support Case
+- [Understanding the OpenShift 4 must gather](https://access.redhat.com/articles/4591521)
+- [Creating must-gather with more details for specific components in OCP 4](https://access.redhat.com/solutions/5459251)
+- [How to generate a sosreport within nodes without SSH in OCP 4](https://access.redhat.com/solutions/4387261)
+
+
 ## General
 - [All Red Hat products and documentation A-Z](https://access.redhat.com/products)
 - [Explaining Red Hat Errata (RHSA, RHBA, and RHEA)](https://access.redhat.com/articles/2130961)
@@ -16,15 +26,6 @@
 ## Portal Assistance (org admins, users, subscriptions, etc.)
 - [Contacting Customer Service](https://access.redhat.com/support/contact/customerService)
 
-## Support Cases
-- [How do I open and manage a support case on the Customer Portal?](https://access.redhat.com/articles/38363#attach)
-- [Red Hat Support Case Escalation](https://access.redhat.com/support/escalation)  
-
-
-## OpenShift - Support Case
-- [Understanding the OpenShift 4 must gather](https://access.redhat.com/articles/4591521)
-- [Creating must-gather with more details for specific components in OCP 4](https://access.redhat.com/solutions/5459251)
-- [How to generate a sosreport within nodes without SSH in OCP 4](https://access.redhat.com/solutions/4387261)
 
 ## Technical Account Manager
 - [5 ways to take advantage of your Red Hat TAM subscription](https://www.redhat.com/en/blog/5-ways-take-advantage-your-red-hat-tam-subscription)
