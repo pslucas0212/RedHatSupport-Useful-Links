@@ -5,6 +5,7 @@
 ## Support Cases
 - [How do I open and manage a support case on the Customer Portal?](https://access.redhat.com/articles/38363#attach)
 - [Red Hat Support Case Escalation](https://access.redhat.com/support/escalation)
+- [What is an sos report and how to create one in Red Hat Enterprise Linux?](https://access.redhat.com/solutions/3592)
 
 ## OpenShift - Support Case
 - [Understanding the OpenShift 4 must gather](https://access.redhat.com/articles/4591521)
